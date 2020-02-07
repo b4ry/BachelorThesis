@@ -1,0 +1,209 @@
+Liczba pobranych paczek: 50
+Zajeta pow: 90%.
+Ilosc pozostalych paczek: 31
+Ilosc paczek umieszczonych na palecie: 19
+
+L L ^ ^ C C B r O O 
+L L ^ ^ C C B r O O 
+L L E E C C B r O O 
+L L E E C C B r F F 
+B G E E C C B r F F 
+D G E E C C B r F F 
+D G B M C C k r ` B 
+D G h M N U k r ` B 
+D G h M N U W ] ` e 
+D G J M N U W ] ` e 
+
+Zajeta powierzchnia przez bloczki blokady: 10%
+
+Zajeta pow: 90%.
+Ilosc pozostalych paczek: 20
+Ilosc paczek umieszczonych na palecie: 11
+
+B B B B B B H H B B 
+i i i i i B H H K K 
+i i i i i B H H K K 
+_ _ c c s s H H K K 
+_ _ c c s s H H K K 
+_ _ c c s s H H K K 
+_ _ c c s s V V \ \ 
+S S a a n n V V \ \ 
+S S a a n n V V \ \ 
+S S a a n n V V \ \ 
+
+Zajeta powierzchnia przez bloczki blokady: 10%
+
+Zajeta pow: 84%.
+Ilosc pozostalych paczek: 14
+Ilosc paczek umieszczonych na palecie: 6
+
+B B B o o o B B B B 
+l l l o o o g g g B 
+l l l o o o g g g B 
+l l l o o o g g g B 
+l l l o o o g g g B 
+Q Q Q X X X g g g B 
+Q Q Q X X X Z Z Z B 
+Q Q Q X X X Z Z Z B 
+Q Q Q X X X Z Z Z B 
+Q Q Q X X X Z Z Z B 
+
+Zajeta powierzchnia przez bloczki blokady: 16%
+
+Zajeta pow: 60%.
+Ilosc pozostalych paczek: 11
+Ilosc paczek umieszczonych na palecie: 3
+
+B B B B B B B B B B 
+B B B B R R R R B B 
+B B B B R R R R B B 
+B B B B R R R R B B 
+A A A A R R R R B B 
+A A A A R R R R B B 
+A A A A I I I I B B 
+A A A A I I I I B B 
+A A A A I I I I B B 
+A A A A I I I I B B 
+
+Zajeta powierzchnia przez bloczki blokady: 40%
+
+Zajeta pow: 65%.
+Ilosc pozostalych paczek: 8
+Ilosc paczek umieszczonych na palecie: 3
+
+[ [ [ [ [ B B B B B 
+[ [ [ [ [ B B B B B 
+[ [ [ [ [ B B B B B 
+[ [ [ [ [ B B B B B 
+[ [ [ [ [ B B B B B 
+d d d d q q q q B B 
+d d d d q q q q B B 
+d d d d q q q q B B 
+d d d d q q q q B B 
+d d d d q q q q B B 
+
+Zajeta powierzchnia przez bloczki blokady: 35%
+
+Zajeta pow: 60%.
+Ilosc pozostalych paczek: 6
+Ilosc paczek umieszczonych na palecie: 2
+
+B B B B B B B B B B 
+B B B B B B B B B B 
+B B B B B B B B B B 
+B B B B B B B B B B 
+b b b b b j j j j j 
+b b b b b j j j j j 
+b b b b b j j j j j 
+b b b b b j j j j j 
+b b b b b j j j j j 
+b b b b b j j j j j 
+
+Zajeta powierzchnia przez bloczki blokady: 40%
+
+
+---------------- PONAD LIMIT ----------------
+
+Zajeta pow: 35%.
+Ilosc pozostalych paczek: 5
+Ilosc paczek umieszczonych na palecie: 1
+
+B B B B B B B B B B 
+B B B B B B B B B B 
+B B B B B B B B B B 
+m m m m m B B B B B 
+m m m m m B B B B B 
+m m m m m B B B B B 
+m m m m m B B B B B 
+m m m m m B B B B B 
+m m m m m B B B B B 
+m m m m m B B B B B 
+
+Zajeta powierzchnia przez bloczki blokady: 65%
+
+Zajeta pow: 42%.
+Ilosc pozostalych paczek: 4
+Ilosc paczek umieszczonych na palecie: 1
+
+B B B B B B B B B B 
+B B B B B B B B B B 
+B B B B B B B B B B 
+P P P P P P B B B B 
+P P P P P P B B B B 
+P P P P P P B B B B 
+P P P P P P B B B B 
+P P P P P P B B B B 
+P P P P P P B B B B 
+P P P P P P B B B B 
+
+Zajeta powierzchnia przez bloczki blokady: 58%
+
+Zajeta pow: 42%.
+Ilosc pozostalych paczek: 3
+Ilosc paczek umieszczonych na palecie: 1
+
+B B B B B B B B B B 
+B B B B B B B B B B 
+B B B B B B B B B B 
+Y Y Y Y Y Y B B B B 
+Y Y Y Y Y Y B B B B 
+Y Y Y Y Y Y B B B B 
+Y Y Y Y Y Y B B B B 
+Y Y Y Y Y Y B B B B 
+Y Y Y Y Y Y B B B B 
+Y Y Y Y Y Y B B B B 
+
+Zajeta powierzchnia przez bloczki blokady: 58%
+
+Zajeta pow: 48%.
+Ilosc pozostalych paczek: 2
+Ilosc paczek umieszczonych na palecie: 1
+
+B B B B B B B B B B 
+B B B B B B B B B B 
+T T T T T T B B B B 
+T T T T T T B B B B 
+T T T T T T B B B B 
+T T T T T T B B B B 
+T T T T T T B B B B 
+T T T T T T B B B B 
+T T T T T T B B B B 
+T T T T T T B B B B 
+
+Zajeta powierzchnia przez bloczki blokady: 52%
+
+Zajeta pow: 48%.
+Ilosc pozostalych paczek: 1
+Ilosc paczek umieszczonych na palecie: 1
+
+B B B B B B B B B B 
+B B B B B B B B B B 
+p p p p p p B B B B 
+p p p p p p B B B B 
+p p p p p p B B B B 
+p p p p p p B B B B 
+p p p p p p B B B B 
+p p p p p p B B B B 
+p p p p p p B B B B 
+p p p p p p B B B B 
+
+Zajeta powierzchnia przez bloczki blokady: 52%
+
+Zajeta pow: 56%.
+Ilosc pozostalych paczek: 0
+Ilosc paczek umieszczonych na palecie: 1
+
+@ @ @ @ @ @ @ @ @ @ 
+@ @ @ @ @ @ @ @ @ @ 
+f f f f f f f @ @ @ 
+f f f f f f f @ @ @ 
+f f f f f f f @ @ @ 
+f f f f f f f @ @ @ 
+f f f f f f f @ @ @ 
+f f f f f f f @ @ @ 
+f f f f f f f @ @ @ 
+f f f f f f f @ @ @ 
+
+Zajeta powierzchnia przez bloczki blokady: 0%
+
+Ilosc uzytych palet: 12
